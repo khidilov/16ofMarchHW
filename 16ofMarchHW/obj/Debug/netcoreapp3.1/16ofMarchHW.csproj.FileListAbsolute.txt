@@ -1,0 +1,14 @@
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\bin\Debug\netcoreapp3.1\16ofMarchHW.exe
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\bin\Debug\netcoreapp3.1\16ofMarchHW.deps.json
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\bin\Debug\netcoreapp3.1\16ofMarchHW.runtimeconfig.json
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\bin\Debug\netcoreapp3.1\16ofMarchHW.runtimeconfig.dev.json
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\bin\Debug\netcoreapp3.1\16ofMarchHW.dll
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\bin\Debug\netcoreapp3.1\16ofMarchHW.pdb
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\obj\Debug\netcoreapp3.1\16ofMarchHW.csproj.AssemblyReference.cache
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\obj\Debug\netcoreapp3.1\16ofMarchHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\obj\Debug\netcoreapp3.1\16ofMarchHW.AssemblyInfoInputs.cache
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\obj\Debug\netcoreapp3.1\16ofMarchHW.AssemblyInfo.cs
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\obj\Debug\netcoreapp3.1\16ofMarchHW.csproj.CoreCompileInputs.cache
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\obj\Debug\netcoreapp3.1\16ofMarchHW.dll
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\obj\Debug\netcoreapp3.1\16ofMarchHW.pdb
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\16ofMarchHW\16ofMarchHW\obj\Debug\netcoreapp3.1\16ofMarchHW.genruntimeconfig.cache
